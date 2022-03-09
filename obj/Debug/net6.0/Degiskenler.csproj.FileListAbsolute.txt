@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/bin/Debug/net6.0/Degiskenler
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/bin/Debug/net6.0/Degiskenler.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/bin/Debug/net6.0/Degiskenler.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/bin/Debug/net6.0/Degiskenler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/bin/Debug/net6.0/Degiskenler.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/refint/Degiskenler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/Degiskenler.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Degiskenler/obj/Debug/net6.0/ref/Degiskenler.dll
